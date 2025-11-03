@@ -10,3 +10,7 @@
 	path = user-generation1
 	url = ../../cpp-port/port-user-generation1
 	branch = main
+[submodule "imaging"]
+	path = imaging
+	url = ../port-imaging
+	branch = main
